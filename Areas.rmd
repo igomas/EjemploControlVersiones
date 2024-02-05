@@ -1,0 +1,19 @@
+---
+title: "Áreas"
+author: "Irene Gómez Mas"
+date: "2024-02-05"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Área círculo
+
+
+```{r cars}
+r<-0.5
+Area<-pi*r^2
+```
+
